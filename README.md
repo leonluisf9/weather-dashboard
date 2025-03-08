@@ -11,7 +11,7 @@
 ## Description
 A weather dashboard that allows the user to get a city's current weather conditions and the five day forecast. OpenWeather API are used to access weather data by making requests with specific parameters to a URL
 ## Installation
-Deployed application: https://tobedone.github.io/weather-dashboard/
+Deployed application: https://weather-dashboard-q9u7.onrender.com/
 ## Usage
 User can either enter a city to search for or click on a button for a previously searched city to get the current weather and five day forecast.You can click on cities in the history section to obtain their weather data again.
 ## Contributing
