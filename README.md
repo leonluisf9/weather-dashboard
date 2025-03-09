@@ -1,6 +1,7 @@
 # Weather Dashboard
 ![License Badge](https://shields.io/badge/license-MIT_License-blue)
 ## Table of Contents
+* [Webpage Preview](#webpage-preview-)
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
@@ -8,6 +9,8 @@
 5. [License](#license)
 6. [Questions](#questions)
 
+## Webpage Preview
+![alt text](image.png)
 ## Description
 A weather dashboard that allows the user to get a city's current weather conditions and the five day forecast. OpenWeather API are used to access weather data by making requests with specific parameters to a URL
 ## Installation
